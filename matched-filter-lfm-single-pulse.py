@@ -1,5 +1,5 @@
 #range compression/pulse compression using matched filtering for lfm signal,single pulse
-#contributed by dhanraj
+#made by dhanraj mahurkar
 from scipy.fftpack import fft, ifft, fftshift
 #from scipy import conj, linspace, exp
 from scipy.constants import pi
